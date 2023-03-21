@@ -1,3 +1,3 @@
 # vishwas-resume
 
-This repo is for stroring resume.
+This repository is for stroring vishwas-resume.
